@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8102493/90469846-7979a200-e14c-11ea-88fa-7da8276ce84c.gif" width="27px">
+</p>
+
 
 <!--
 **ryanannatuvasquez/ryanannatuvasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
